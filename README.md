@@ -43,14 +43,6 @@ Developed as part of our **Java OOP project**, it demonstrates real-world applic
 
 ---
 
-## 📸 Screenshots  
-
-| Home Screen | Donor List | Request Form |
-|-------------|------------|--------------|
-![Home](assets/home.png) | ![Donor List](assets/donor_list.png) | ![Request Form](assets/request_form.png) |
-
----
-
 ## 👥 Team Members & Roles  
 
 | Name                        | Role                              |
