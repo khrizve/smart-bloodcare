@@ -59,7 +59,7 @@ Developed as part of our **Java OOP project**, it demonstrates real-world applic
 
 ```bash
 # Clone this repository..
-git clone https://github.com/kh_rizve/Smart-BloodCare.git
+git clone https://github.com/kh_rizve/smart-bloodcare.git
 
 # Open in Android Studio
 # Connect Firebase to your project
